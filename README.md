@@ -82,4 +82,17 @@ Também, o SGBD possui o código-fonte open source e gratuito, possuindo uma gra
 
 Uma aplicação mobile para Android disponível no Play Store destinado tanto para adoção como para doação, que possibilita filtrar por região ou cidade 
 
+### 3. DESENVOLVIMENTO
+
+Neste capítulo deve ser abordado a metodologia e o enfoque experimental utilizados no trabalho. O título DESENVOLVIMENTO é  OBRIGATÓRIO, podendo os subtítulos  serem modificados pelo(s) autor(es) de acordo com o trabalho que está sendo desenvolvido, com uma abordagem tecnológica ou científica. 
+Em relação a formatação, deve seguir o padrão das instruções apresentadas ao final deste documento.
+
+#### 3.1. Arquitetura do Sistema
+
+Esse subtítulo e conteúdo  é obrigatório.....
+
+#### 3.2. Título 3.2
+
+Texto.....
+
 ### REFERÊNCIAS
