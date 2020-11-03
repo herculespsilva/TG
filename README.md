@@ -9,6 +9,13 @@ A Organização Mundial da Saúde estima que só no Brasil existem mais de 30 mi
 
 E promover a adoção voluntária além do mais a castração para controle de reprodução populacional de cães e gatos e prevenção de proliferação de doenças reprodutivas transmissíveis entre os animais, assim evitando as ninhadas indesejadas e o consequente abandono.
 
+<p align="center">
+  <a href="" rel="noopener">
+ <b>Figura 1.1 – População de Animais no Brasil</b>
+ <img src="imagem/logo_fatecsjc.png" alt="Project logo"></a>
+ Fonte: Instituto Pet Brasil Base IBGE (2013)
+</p>
+
 O levantamento do Instituto Pet Brasil apurou a existência de 370 ONGs atuando na proteção animal. Dessas 46%, ou 169 ONGs, estão na região Sudeste, seguida pelas regiões Sul (18%), Nordeste (17%), Norte (12%) e, por fim, Centro-Oeste (7%). Essas instituições tutelam mais de 172 mil animais. Desses, 165.200 (96%) são cães e 6.883 (4%) são gatos. As ONGs e protetores forneceram informações diversas sobre a sua capacidade de acolhimento e o acolhimento real do momento, e o mais preocupante que esses dados revelam, o crescimento efetivamente de animais em condições de vulnerabilidade para abandono completo.
 
 Sem ajuda, cuidado e ação de Ongs ou protetores e até mesmo de pessoas que se sensibilizam com estes animais em condição de abandono, eventualmente esses dados tendem a crescer a cada vez mais. No entanto promovendo a adoção doméstica e o zelo permite que animais sejam adotados e consequentemente mais animais resgatados em condição de abandono.
