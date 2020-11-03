@@ -80,7 +80,10 @@ Também, o SGBD possui o código-fonte open source e gratuito, possuindo uma gra
 
 #### 2.3.1.	Busca Pet – Adoção e Doação de Animais
 
-Uma aplicação mobile para Android disponível no Play Store destinado tanto para adoção como para doação, que possibilita filtrar por região ou cidade 
+Uma aplicação mobile para Android disponível no Play Store destinado tanto para adoção como para doação de animais domésticos. Possui um cadastro simples, com possibilidade de vinculação com o facebook, apenas necessitando informar nome, endereço, foto, número de contato e aceitar as permissões da aplicação. Logo após o cadastro, há a possibilidade de cadastrar um animal para adoção informando o nome do animal, tipo (Cão, Gato, Coelho, Ave, Outro), gênero, idade , porte do animal (pequeno, médio, grande, porte não informado), estado e raça com uma breve história do animal incluindo características e fotos.
+
+Para Adoção de um animal a aplicação possibilita filtrar por estado e cidade, mostrando todas as possiblidades. Caso haja interesse, precisa ser combinado fora da plataforma, na qual a mesma oferece o relacionamento de um doador com um adotante, no entanto para obter o numero de contato do doador é necessário fazer uma doação em dinheiro que será destinado a ONGs.
+
 
 ### 3. DESENVOLVIMENTO
 
