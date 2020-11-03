@@ -96,3 +96,25 @@ Esse subtítulo e conteúdo  é obrigatório.....
 Texto.....
 
 ### REFERÊNCIAS
+
+NÃO SEI. <b>Instituto Pet Brasil.</b> Disponível em http://institutopetbrasil.com/beneficios Acesso em: 01/09/2010.
+
+NÃO SEI. <b>Instituto Pet Brasil.</b> Disponível em http://institutopetbrasil.com/imprensa/pais-tem-39-milhoes-de-animais-em-condicao-de-vulnerabilidade Acesso em: 01/09/2010.
+
+NÃO SEI. <b>Instituto Pet Brasil.</b> Disponível em https://www.gov.br/agricultura/pt-br/assuntos/camaras-setoriais-tematicas/documentos/camaras-setoriais/animais-e-Estimacao/2019/26deg-ro-1/14-10-ipb_mercado_pet_resultados_2018_draft2.pdf Acesso em: 08/09/2010. 
+
+ANDA. <b>Brasil tem 30 milhões de animais abandonados.</b> Disponível em https://anda.jusbrasil.com.br/noticias/100681698/brasil-tem-30-milhoes-de-animais-abandonados Acesso em: 08/09/2010.
+
+ASSESSORIA DE IMPRENSA. <b>139,3 milhões de animais de estimação no Brasil.</b> Disponível em http://institutopetbrasil.com/imprensa/censo-pet-1393-milhoes-de-animais-de-estimacao-no-brasil Acesso em: 15/09/2010.
+
+ASSESSORIA DE IMPRENSA. <b>País tem 3,9 milhões de animais em condição de vulnerabilidade.</b> Disponível em http://institutopetbrasil.com/imprensa/pais-tem-39-milhoes-de-animais-em-condicao-de-vulnerabilidade. Acesso em: 29/09/2010.
+
+CAROLINA SALLES. <b>Maus tratos de cães e gatos em ambiente urbano, defesa e proteção aos animais.</b> Disponível em https://carollinasalle.jusbrasil.com.br/artigos/163211587 Acesso em: 29/09/2010.
+
+AGÊNCIA SENADO. <b>Brasil poderá ter marco regulatório dos animais de estimação.</b> Disponível em https://exame.com/brasil/brasil-podera-ter-marco-regulatorio-dos-animais-de-estimacao Acesso em: 06/10/2010.
+
+CRMV. <b>Guia prático para avaliação inicial de maus tratos a cães e gatos.</b> Disponível em https://www.crmvsp.gov.br/arquivo_legislacao/GUIA_PRATICO_PARA_AVALIACAO_INICIAL_DE_MAUS_TRATOS_A_CAES_E_GATOS.pdf Acesso em: 06/10/2010.
+REACT NATIVE. <b>React Native.</b> Disponível em https://reactnative.dev Acesso em: 13/10/2010.
+
+ANDRADE PAULA. <b>O que é o React Native.</b> Disponível em https://www.treinaweb.com.br/blog/o-que-e-o-react-native Acesso em: 13/10/2010.
+ADIL CALOMENO JUNIOR. React Native: o que é, quais as funcionalidades e as vantagens desse framework. Disponível em https://ateliware.com/blog/react-native Acesso em: 15/10/2010.
