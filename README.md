@@ -12,7 +12,7 @@ E promover a adoção voluntária além do mais a castração para controle de r
 <p align="center">
  <b>Figura 1.1 – População de Animais no Brasil</b></br>
  <a href="" rel="noopener">
- <img src="img/populacao_animais_brasil.png" width="300px"  alt="Project logo"></a>
+ <img src="img/populacao_animais_brasil.png" width="350px"  alt="Project logo"></a>
  </br>Fonte: Instituto Pet Brasil Base IBGE (2013)
 </p>
 
