@@ -9,8 +9,8 @@ A Organização Mundial da Saúde estima que só no Brasil existem mais de 30 mi
 
 E promover a adoção voluntária além do mais a castração para controle de reprodução populacional de cães e gatos e prevenção de proliferação de doenças reprodutivas transmissíveis entre os animais, assim evitando as ninhadas indesejadas e o consequente abandono.
 
+<b align="center">Figura 1.1 – População de Animais no Brasil</b>
 <p align="center">
- <b>Figura 1.1 – População de Animais no Brasil</b></br>
  <a href="" rel="noopener">
  <img src="img/Sem título.jpg" alt="Project logo"></a>
  Fonte: Instituto Pet Brasil Base IBGE (2013)
