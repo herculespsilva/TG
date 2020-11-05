@@ -57,7 +57,9 @@ Eu como cuidadora preciso cadastrar os animais domésticos resgatados, para isso
 Para o desenvolvimento desta aplicação foram escolhidas 3 tecnologias e seus recursos como:
 
 •	React Native;
+
 •	NodeJs;
+
 •	Mysql.
 
 #### 2.2.1.	React Native
