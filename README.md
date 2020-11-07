@@ -86,6 +86,17 @@ Uma aplicação mobile para Android disponível no Play Store destinado tanto pa
 
 Para Adoção de um animal a aplicação possibilita filtrar por estado e cidade, mostrando todas as possiblidades. Caso haja interesse, precisa ser combinado fora da plataforma, na qual a mesma oferece o relacionamento de um doador com um adotante, no entanto para obter o numero de contato do doador é necessário fazer uma doação em dinheiro que será destinado a ONGs.
 
+#### 2.3.2.	Pets Carentes App – Adoção de animais carentes
+
+Uma aplicação mobile para Android disponível no Play Store destinado para adoção de animais carentes de forma responsável, possibilitando publicar animais de estimação como cães e gatos que precisam de adoção. O app conta com quatro abas principais: feed de publicações, gestão de pets, cupons promocionais e mapa de localização.
+
+No feed de publicações serão visualizadas postagens de pets para adoção e os que foram adotados, nesta aba os interessados em adotar um novo pet, poderão ler sua história, entrar em contato com o seu protetor e se candidatar para adoção.
+
+Na aba de gestão, estarão os pets registrados para adoção que o protetor cadastrou, ou os pets que os candidatos querem adotar, nesta aba é uma sub-navegação, para guardar ou manter os pets que os candidatos adotaram.
+
+Na aba cupons, estarão disponíveis cupons de desconto de comerciantes locais, para consumo de usuários do aplicativo. Na última aba estará o mapa, interativo, para encontrar publicações de doações próximas do candidato.
+
+As postagens, assim como os dados exibidos no mapa utilizam o recurso de geolocalização, não sendo necessário selecionar estado ou cidade para filtrar, os resultados serão apresentados por proximidade.
 
 ### 3. DESENVOLVIMENTO
 
