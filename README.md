@@ -106,7 +106,7 @@ Em relação a formatação, deve seguir o padrão das instruções apresentadas
 #### 3.1. Arquitetura do Sistema
 
 <p align="center">
- <b>Figura 1.2 – Arquitetura do sistema</b></br></br>
+ <b>Figura 3.1 – Arquitetura do sistema</b></br></br>
  <a href="" rel="noopener">
  <img src="img/arquitetura.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
 </p>
