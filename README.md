@@ -108,7 +108,7 @@ Em relação a formatação, deve seguir o padrão das instruções apresentadas
 <p align="center">
  <b>Figura 1.2 – Arquitetura do sistema</b></br>
  <a href="" rel="noopener">
- <img src="img/arquitetura.jpg" width="350px"  alt="Arquitetura do Sistema"></a>
+ <img src="img/arquitetura.jpg" width="900px"  alt="Arquitetura do Sistema"></a>
 </p>
 
 #### 3.2. Título
