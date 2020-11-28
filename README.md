@@ -155,4 +155,16 @@ CRMV. <b>Guia prático para avaliação inicial de maus tratos a cães e gatos.<
 REACT NATIVE. <b>React Native.</b> Disponível em https://reactnative.dev Acesso em: 13/10/2010.
 
 ANDRADE PAULA. <b>O que é o React Native.</b> Disponível em https://www.treinaweb.com.br/blog/o-que-e-o-react-native Acesso em: 13/10/2010.
+
 ADIL CALOMENO JUNIOR. React Native: o que é, quais as funcionalidades e as vantagens desse framework. Disponível em https://ateliware.com/blog/react-native Acesso em: 15/10/2010.
+
+ANDRADE PAULA. O que é o React Native. Disponível em https://www.treinaweb.com.br/blog/o-que-e-o-react-native Acesso em: 13/10/2010 Acesso em: 22/10/2010.
+
+ALTEXSOFT. The Good and the Bad of ReactJS and React Native. Disponível em https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-reactjs-and-react-native Acesso em: 22/10/2010.
+
+CASTIGLIONI MATHEUS. React Native é nativo?. Disponível em https://blog.matheuscastiglioni.com.br/react-native-e-nativo Acesso em: 15/10/2010.
+
+DEVMEDIA. Introdução a Engenharia de RequisitosDisponível em https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/29454 Acesso em: 29/10/2010.
+
+CERRI FERNANDO. Engenharia de Requisitos: conheça todas as etapas do processo. Disponível em https://opencadd.com.br/engenharia-de-requisitos-conheca-todas-as-etapas-do-processo Acesso em: 03/10/2010.
+
