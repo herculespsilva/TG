@@ -100,10 +100,27 @@ As postagens, assim como os dados exibidos no mapa utilizam o recurso de geoloca
 
 ### 3. DESENVOLVIMENTO
 
-Neste capítulo deve ser abordado a metodologia e o enfoque experimental utilizados no trabalho. O título DESENVOLVIMENTO é  OBRIGATÓRIO, podendo os subtítulos  serem modificados pelo(s) autor(es) de acordo com o trabalho que está sendo desenvolvido, com uma abordagem tecnológica ou científica. 
-Em relação a formatação, deve seguir o padrão das instruções apresentadas ao final deste documento.
+Este capítulo apresenta o desenvolvimento do sistema deste projeto.
 
 #### 3.1. Arquitetura do Sistema
+
+O desenvolvimento da aplicação em Reactive Native será a partir de componentes de código com APIs nativas no modelo de Single Page Applications (SPA). Permitindo a alteração de conteúdo sem a necessidade do carregamento de uma visualização por completo, mas sim apenas o conteúdo diferente havendo uma comunicação entre componentes direcionados para iOS ou Android. Através de dependências é realizado de forma nativa a interpretação do JavaScript React da aplicação, assim permitindo que o smartphone consiga interpretar e executar JavaScript da mesma forma que Java/Kotlin ou Objective-C/Swift, dependendo da plataforma. 
+
+Sua arquitetura é baseada em brigde (ponte), responsável por realizar uma comunicação bidirecional e assíncrona entre o código JavaScript e código nativo. O mais importante é que ambos mundos (JavaScript e nativo) são escritos em tecnologias diferentes, mas, eles são capazes de se comunicar. Através da escrita de orientações de componentes sob medida acontece a transformação, seguindo de um processamento para JSON com total responsabilidade do JSCore do ReactNative; A bridge recebe o processamento e comunica o nativo, realizando uma renderização do componente na plataforma seja Android ou iOS.
+
+<p align="center">
+ <b>Figura 3.1 – Ilustração do fluxo para iOS</b></br></br>
+ <a href="" rel="noopener">
+ <img src="img/fluxo_ios.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
+</p>
+
+<p align="center">
+ <b>Figura 3.2 – Ilustração do fluxo para Android</b></br></br>
+ <a href="" rel="noopener">
+ <img src="img/fluxo_android.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
+</p>
+
+Através da automação do desenvolvimento back-end em comunicação com o banco de dados, traz várias funcionalidades importantes; alguns dos recursos mais destacados está incluído no armazenamento e gerenciamento dos dados, APIs, notificações e push sincronizados entre os micro-serviços em nuvem de forma nativa com o front-end do React Native.
 
 <p align="center">
  <b>Figura 3.1 – Arquitetura do sistema</b></br></br>
