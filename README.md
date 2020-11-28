@@ -3,7 +3,8 @@
 ## TEMA: APLICAÇÃO MOBILE PARA ADOÇÃO DE ANIMAIS DOMESTICOS
 
 ### 1. INTRODUÇÃO
-         Em todo território nacional estima-se aproximadamente 139,3 milhões de animais de estimação, contabilizados no país 54,2 milhões de cães; 39,8 milhões de aves; 23,9 milhões de gatos; 19,1 milhões de peixes e 2,3 milhões de répteis e pequenos mamíferos de acordo com dados levantados pelo IBGE e atualizados pela inteligência comercial do Instituto Pet Brasil (IPB), em 2018. Com base nesse levantamento pressupõem que a maior concentração de animais domésticos se encontra na região sudeste cerca de 50%, esses números confirmam a tendência de cada vez mais pessoas e famílias buscando animais de estimação.
+
+Em todo território nacional estima-se aproximadamente 139,3 milhões de animais de estimação, contabilizados no país 54,2 milhões de cães; 39,8 milhões de aves; 23,9 milhões de gatos; 19,1 milhões de peixes e 2,3 milhões de répteis e pequenos mamíferos de acordo com dados levantados pelo IBGE e atualizados pela inteligência comercial do Instituto Pet Brasil (IPB), em 2018. Com base nesse levantamento pressupõem que a maior concentração de animais domésticos se encontra na região sudeste cerca de 50%, esses números confirmam a tendência de cada vez mais pessoas e famílias buscando animais de estimação.
 
 A Organização Mundial da Saúde estima que só no Brasil existem mais de 30 milhões de animais abandonados, entre 10 milhões de gatos e 20 milhões de cães, além dos 3,9 milhões de animais em condição de vulnerabilidade (ACV) aqueles que vivem sob o cuidado das famílias classificadas abaixo da linha de pobreza, ou que vivem nas ruas, mas recebem cuidados de pessoas. Muitos animais abandonados, na qual vivem sob os cuidados de Organizações não Governamentais (ONGs), denominadas popularmente como Proteção Animal, ou protetores que assumem a responsabilidade de manter esses animais.
 
