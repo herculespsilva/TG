@@ -105,9 +105,13 @@ Em relação a formatação, deve seguir o padrão das instruções apresentadas
 
 #### 3.1. Arquitetura do Sistema
 
-Esse subtítulo e conteúdo  é obrigatório.....
+<p align="center">
+ <b>Figura 1.2 – Arquitetura do sistema</b></br>
+ <a href="" rel="noopener">
+ <img src="img/arquitetura.jpg" width="350px"  alt="Arquitetura do Sistema"></a>
+</p>
 
-#### 3.2. Título 3.2
+#### 3.2. Título
 
 Texto.....
 
