@@ -129,15 +129,59 @@ Através da automação do desenvolvimento back-end em comunicação com o banco
  <img src="img/arquitetura.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
 </p>
 
-#### 3.2. Título
+#### 3.2. Instalação do nodeJs
 
-Texto.....
+A instalação do nodeJs no sistema operacional windows é simples, primeiro é necessário acessar a página de downloads do site oficial para baixar o instalador (https://nodejs.org/pt-br/), geralmente tem duas versões a LTS (versão que tem um suporte de longo prazo, porém, costuma ser mais antiga; ela é focada em estabilidade e segurança) e a Current (versão mais atual com todas as novas funcionalidades, muito indicada para testes, estudos e novos projetos). No momento da instalação está na versão LTS 14.15.1, após baixar, é necessário somente executar o instalador e selecionar as configurações de preferência.
+
+<p align="center">
+ <b>Figura 3.4 – Instalação NodeJs</b></br></br>
+ <a href="" rel="noopener">
+ <img src="img/instalaçãoNode.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
+</p>
+
+#### 3.3. Instalação do expo
+
+Expo é uma ferramenta utilizada no desenvolvimento mobile react-native que permite fácil acesso às API’s desenvolvidas pelo expo.com, não é preciso instalar qualquer dependência, transmutar ou configurar módulos de código nativo (java ou swift); tudo acontece utilizando somente javascript. Sua instalação se dá através do terminal do sistema operacional seja pelo prompt de comando do Windows CMD ou Windows PowerSell, através do comando npm install expo, que baixa e instala a tecnologia sozinha.
+
+<p align="center">
+ <b>Figura 3.5 – Instalação do expo</b></br></br>
+ <a href="" rel="noopener">
+ <img src="img/intalacaoExpo1.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
+</p>
+
+#### 3.3.1 Instalação do expo Cli
+
+Expo CLI é um aplicativo de linha de comando que é a principal interface entre um desenvolvedor e as ferramentas Expo. Expo CLI também tem uma GUI baseada na web que aparece em seu navegador quando você inicia seu projeto - você pode usar a GUI em vez da interface de linha de comando se ainda não se sentir confortável em usar um terminal ou preferir GUIs, ambos têm semelhantes capacidades. Sua instalação se dá através do terminal do sistema operacional seja pelo prompt de comando do Windows CMD ou Windows PowerSell, através do comando npm install expo -cli --global, que baixa e instala a tecnologia sozinha.
+
+<p align="center">
+ <b>Figura 3.6 – Instalação do expo Cli</b></br></br>
+ <a href="" rel="noopener">
+ <img src="img/instalaçãoExpo2.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
+</p>
+
+#### 3.4. Criação inicial do aplicativo
+
+Começamos um novo projeto React Native usando o comando abaixo (que requer que o expo-cli esteja instalado na máquina), terminal do sistema operacional seja pelo prompt de comando do Windows CMD ou Windows PowerSell expo init DoaAnimais  e em seguida escolhendo a opção blank. 
+
+<p align="center">
+ <b>Figura 3.7 – Criação inicial do aplicativo</b></br></br>
+ <a href="" rel="noopener">
+ <img src="img/CriaçãoProjeto.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
+</p>
+
+A criação do projeto pode demorar um pouco, mas assim que terminar as seguintes pastas será gerada no diretório escolhido:
+
+<p align="center">
+ <b>Figura 3.8 – Pasta gerada na criação</b></br></br>
+ <a href="" rel="noopener">
+ <img src="img/PastasGeradas.jpg" width="1100px"  alt="Arquitetura do Sistema"></a>
+</p>
 
 ### REFERÊNCIAS
 
-NÃO SEI. <b>Instituto Pet Brasil.</b> Disponível em http://institutopetbrasil.com/beneficios Acesso em: 01/09/2010.
+INSTITUTO PET BRASIL. <b>Instituto Pet Brasil.</b> Disponível em http://institutopetbrasil.com/beneficios Acesso em: 01/09/2010.
 
-NÃO SEI. <b>Instituto Pet Brasil.</b> Disponível em http://institutopetbrasil.com/imprensa/pais-tem-39-milhoes-de-animais-em-condicao-de-vulnerabilidade Acesso em: 01/09/2010.
+INSTITUTO PET BRASIL. <b>Instituto Pet Brasil.</b> Disponível em http://institutopetbrasil.com/imprensa/pais-tem-39-milhoes-de-animais-em-condicao-de-vulnerabilidade Acesso em: 01/09/2010.
 
 NÃO SEI. <b>Instituto Pet Brasil.</b> Disponível em https://www.gov.br/agricultura/pt-br/assuntos/camaras-setoriais-tematicas/documentos/camaras-setoriais/animais-e-Estimacao/2019/26deg-ro-1/14-10-ipb_mercado_pet_resultados_2018_draft2.pdf Acesso em: 08/09/2010. 
 
